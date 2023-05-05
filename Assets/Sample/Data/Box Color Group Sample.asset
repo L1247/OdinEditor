@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712f97410fb041efbd82e7d377af4548, type: 3}
+  m_Name: Box Color Group Sample
+  m_EditorClassIdentifier: 
+  group2Color: {r: 0.8, g: 0.67318916, b: 0.035294104, a: 0.7137255}
+  A: 123
+  B: 321
+  C: qwqw
+  iconForBox2: {fileID: 2800000, guid: 18775b51e3bd42299fd30bd036ea982f, type: 3}

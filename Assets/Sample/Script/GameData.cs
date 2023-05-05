@@ -1,6 +1,6 @@
 #region
 
-using rStar.OdinEditor.Attributes;
+using rStar.Odin.Attributes;
 using UnityEngine;
 
 #endregion

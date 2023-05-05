@@ -3,7 +3,7 @@
 using System;
 using Sirenix.Utilities;
 using UnityEngine;
-using static rStar.OdinEditor.Attributes.DefaultColor;
+using static rStar.Odin.Attributes.DefaultColor;
 
 #if UNITY_EDITOR
 using Sirenix.OdinInspector;
@@ -15,7 +15,7 @@ using Sirenix.OdinInspector.Editor.ValueResolvers;
 
 #endregion
 
-namespace rStar.OdinEditor.Attributes
+namespace rStar.Odin.Attributes
 {
 #if UNITY_EDITOR
 
