@@ -1,12 +1,10 @@
 {
-  "name": "rStar.Odin.Editor",
+  "name": "rStar.Odin.Editor.Sample",
   "rootNamespace": "",
   "references": [
-    ""
+    "GUID:0c94fb9dd30d3f441a2fb85c4c51fe07"
   ],
-  "includePlatforms": [
-    "Editor"
-  ],
+  "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "overrideReferences": false,
