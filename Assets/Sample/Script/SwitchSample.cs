@@ -1,6 +1,7 @@
 #region
 
 using rStar.Odin.Attributes;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 #endregion
@@ -8,12 +9,13 @@ using UnityEngine;
 namespace Sample
 {
     [CreateAssetMenu]
-    public class GameData : ScriptableObject
+    public class SwitchSample : ScriptableObject
     {
     #region Private Variables
 
         [SerializeField]
         [Switch(DefaultColor.Yellow)]
+        [ToggleLeft]
         private bool toggle;
 
     #endregion
